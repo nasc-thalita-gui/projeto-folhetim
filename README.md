@@ -9,3 +9,4 @@ Imagens: pinterest, google imagens;
 Estilização: Gama
 Editor de código: showcode
 Fonte de pesquisa: Devmedia.
+Link do folhetim: file:///C:/Users/thali/Downloads/Desvendando-HTML.pdf
