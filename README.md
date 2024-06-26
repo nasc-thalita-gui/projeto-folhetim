@@ -9,4 +9,8 @@ Imagens: pinterest, google imagens;
 Estilização: Gama
 Editor de código: showcode
 Fonte de pesquisa: Devmedia.
-Link do folhetim: file:///C:/Users/thali/Downloads/Desvendando-HTML.pdf
+<p> 
+  <a href="file:///C:/Users/thali/Downloads/Desvendando-HTML.pdf"  title="View PDF now"> Link do folhetim!</a>
+  
+  </p> 
+
