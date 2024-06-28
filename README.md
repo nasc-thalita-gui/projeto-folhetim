@@ -13,4 +13,4 @@ Fonte de pesquisa: Devmedia.
   <a href="file:///C:/Users/thali/Downloads/Desvendando-HTML.pdf"  title="View PDF now"> Link do folhetim!</a>
   
   </p> 
-
+ATENÇÃO: ESTE PROJETO FOI GERADO POR IA, E DIAGRAMADO POR HUMANO!
